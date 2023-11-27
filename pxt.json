@@ -1,5 +1,6 @@
 {
     "name": "makecodearcade_c_to_f_Boileau_Margaux",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
